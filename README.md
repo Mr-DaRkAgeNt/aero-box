@@ -1,5 +1,6 @@
 # 🚀 Aero-Box AI : Hardware Prototype 
 **AMD Ryzen Slingshot Hackathon 2026 Submission** | **Category:** Open Innovation  
+
 **TEAM NAME - INVO-TEX**  
 **TEAM Member 1 - Prasoon Mishra (Lead)**  
 **TEAM Memeber 2 - Pratyush Kumar**  
@@ -7,7 +8,7 @@
 
 Aero-Box is a browser-based, AI-driven hardware sandbox that eliminates the need for physical components during the prototyping phase. By simply typing a prompt, users generate interactive 3D WebGL circuits, logical wiring maps, and 2D product casing concept art.
 
-![Aero-Box Architecture](./docs/Arch.png) *(Note: Create a docs folder and upload the diagrams here later)*
+![Aero-Box Architecture](./docs/Arch.png)
 
 ## 💻 Powered by the AMD Ecosystem
 To ensure zero-latency 3D rendering and highly scalable AI routing, Aero-Box is architected around the AMD technology stack:
