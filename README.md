@@ -3,8 +3,8 @@
 
 **TEAM NAME - INVO-TEX**  
 **TEAM Member 1 - Prasoon Mishra (Lead)**  
-**TEAM Memeber 2 - Pratyush Kumar**  
-**TEAM Memeber 3- Priyam Prakash** 
+**TEAM Member 2 - Pratyush Kumar**  
+**TEAM Member 3- Priyam Prakash** 
 
 Aero-Box is a browser-based, AI-driven hardware sandbox that eliminates the need for physical components during the prototyping phase. By simply typing a prompt, users generate interactive 3D WebGL circuits, logical wiring maps, and 2D product casing concept art.
 
