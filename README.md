@@ -1,4 +1,4 @@
-# 🚀 Aero-Box: AI-Powered Hardware Prototyping Sandbox
+# 🚀 Aero-Box AI : Hardware Prototype 
 **AMD Ryzen Slingshot Hackathon 2026 Submission** | **Category:** Open Innovation  
 **TEAM NAME - INVO-TEX**  
 **TEAM Member 1 - Prasoon Mishra (Lead)**  
