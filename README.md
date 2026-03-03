@@ -1,4 +1,4 @@
-# 🚀 Aero-Box AI : Hardware Prototype 
+# 🚀 Aero-Box AI : Prototype 
 **AMD Slingshot Hackathon 2026 Submission** | **Category:** Open Innovation  
 
 **TEAM NAME - INVO-TEX**  
